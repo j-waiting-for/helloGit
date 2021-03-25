@@ -1,0 +1,9 @@
+/**
+ * @author FireM
+ * @Date 2021/3/25 23:05
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
